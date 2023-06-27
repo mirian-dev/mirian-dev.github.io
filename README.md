@@ -5,7 +5,7 @@
 - Privacy Policy include
 
 ## Version Release
-This Is Latest Release
+This Is Latest Release 
 
     $version_release = 1.0.0
 
